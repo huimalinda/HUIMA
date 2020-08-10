@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## HUI MA
 
-You can use the [editor on GitHub](https://github.com/huimalinda/huima/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-  [https://www.linkedin.com/in/hui-ma-572763193/](https://www.linkedin.com/in/hui-ma-572763193/)
+- 857-424-7135
+- [ma.hui@northeastern.edu](ma.hui@northeastern.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+**Northeastern University Boston**
+_September 2019 -- May 2021(Expected)_
+Master of Science in Applied Mathematics
 
-### Markdown
+**Beijing Normal University Beijing, China**
+_September 2015 -- June 2019_
+Bachelor of Science in Mathematics and Applied Mathematics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Professional Experience
+**Massachusetts General Hospital Boston, MA**
+Boston Bioinformatics intern
+_May 2020 - December 2020_
+- Filtered and processed large-scale single-cell genomics data on cloud-native platform (Terra) or using command line tool.
+- Wrote and uploaded about 30 JSON files, used the execution result to make slides on Google slides.
+- 15 minutes presentation in the Pfizer workshop, introduced our data analysis framework to audience.
 
-```markdown
-Syntax highlighted code block
+**Deloitte, Beijing China**
+Audit&Assurance intern
+_December 2018 - April 2019_
+- Imported about 30 excel and csv files into data base, 5 of them exceeded 1 million lines.Integrated and visualized data for reports using SQL and Excel.
+- Assisted building annual reports for different types of companies, including banks, airline companies, educational institutions and oil corporation. Collaborated with other team members to modify financial reports according to the expectation of customers.
 
-# Header 1
-## Header 2
-### Header 3
+### Project Experience
+**Machine Learning: Using MRI for surgery planning**
+_March 2020_
+- Obtained images of ventricles by cutting MRI images using 3DSlicer, then exported images into numpy file for Python. 
+- Loaded MRI data into Python, found the optimal solution for surgery by minimizing the value of loss function, while avoiding blood vessels and other obstacles.
+**Markov Chain Simulation**
+_November 2019_
+- Utilized data set of time series from UCI archive, which showed the change of outdoor humidity over 2 month time frame. 
+- Chose a 10-state model,mapped the data into Markov Chain. Transferred the time series to Matlab for analysis, Computed transition matrix, stationary distribution and empirical distribution.
+### Skills
+Python, SQL, Latex, MatLab 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huimalinda/huima/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
