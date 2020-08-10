@@ -6,11 +6,15 @@
 
 ### Education
 **Northeastern University Boston**
+
 _September 2019 -- May 2021(Expected)_
+
 Master of Science in Applied Mathematics
 
 **Beijing Normal University Beijing, China**
+
 _September 2015 -- June 2019_
+
 Bachelor of Science in Mathematics and Applied Mathematics
 
 ### Professional Experience
