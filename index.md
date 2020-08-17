@@ -41,6 +41,7 @@ _December 2018 - April 2019_
 _March 2020_
 - Obtained images of ventricles by cutting MRI images using 3DSlicer, then exported images into numpy file for Python. 
 - Loaded MRI data into Python, found the optimal solution for surgery by minimizing the value of loss function, while avoiding blood vessels and other obstacles.
+
 **Markov Chain Simulation**
 
 _November 2019_
