@@ -18,9 +18,9 @@ _September 2015 -- June 2019_
 Bachelor of Science in Mathematics and Applied Mathematics
 
 ### Professional Experience
-**Massachusetts General Hospital Boston, MA**
+**Massachusetts General Hospital, Boston, MA**
 
-Boston Bioinformatics intern
+Bioinformatics intern
 
 _May 2020 - December 2020_
 - Filtered and processed large-scale single-cell genomics data on cloud-native platform (Terra) or using command line tool.
